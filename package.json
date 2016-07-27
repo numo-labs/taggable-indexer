@@ -1,0 +1,17 @@
+{
+  "name": "taggable-indexer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "async": "^2.0.0",
+    "aws-sdk": "^2.4.7",
+    "cli-progress": "^1.2.0",
+    "env2": "^2.1.0",
+    "taggable-searcher": "^6.1.1"
+  }
+}
